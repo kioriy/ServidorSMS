@@ -1,0 +1,84 @@
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Servidor SMS.exe.config
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Servidor SMS.exe
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Servidor SMS.pdb
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.SqlServer.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Newtonsoft.Json.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\RestSharp.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Buffers.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.EF6.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.Linq.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Memory.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Numerics.Vectors.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Encodings.Web.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Json.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.ValueTuple.dll
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.SqlServer.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Newtonsoft.Json.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\RestSharp.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Buffers.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Memory.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Numerics.Vectors.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Encodings.Web.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Json.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.ValueTuple.xml
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.AssemblyReference.cache
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.SuggestedBindingRedirects.cache
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor_SMS.frmMain.resources
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor_SMS.Properties.Resources.resources
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.GenerateResource.cache
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.CoreCompileInputs.cache
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.CopyComplete
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.exe
+Y:\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.pdb
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Servidor SMS.exe.config
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Servidor SMS.exe
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Servidor SMS.pdb
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\RestSharp.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Buffers.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.EF6.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.Linq.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Memory.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\RestSharp.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Buffers.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Data.SQLite.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Memory.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.AssemblyReference.cache
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor_SMS.frmMain.resources
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor_SMS.Properties.Resources.resources
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.GenerateResource.cache
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.csproj.CopyComplete
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.exe
+\\Mac\Home\Proyectos\ServidorSMS\Servidor SMS\obj\Debug\Servidor SMS.pdb

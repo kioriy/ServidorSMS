@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df32c273-4866-46af-a834-9c173828e58e": {
+      "ProjectGuid": "df32c273-4866-46af-a834-9c173828e58e",
+      "DisplayName": "Servidor SMS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
